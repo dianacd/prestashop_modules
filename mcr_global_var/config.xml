@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mcr_global_var</name>
+    <displayName><![CDATA[MCR Global Variables]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[MCR Global Variables]]></description>
+    <author><![CDATA[Diana Acevedo]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
